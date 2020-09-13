@@ -1,10 +1,10 @@
 -- last update: 26/07/2020
-local CustomLanguage = { -- you can edit the var name but edit it at the end as well
-    v_loc = 1.00, -- this needs to be synced with your version file, make it bigger at each modification
-    otdt_msg = "Waring: CustomLanguage is outdated.\nPlease wait for Author to update it.",
+local CustomLanguage = { -- fontTest
+    v_loc = 1.00, -- 2
+    otdt_msg = "Hmmmmmm",
     [1] = {
-        [1] = {"Legitbot",},
-        [2] = {"Ragebot",},
+        [1] = {"ʟᴇɢɪᴛʙᴏᴛ",},
+        [2] = {"ʀᴀɢᴇʙᴏᴛ",},
         [3] = {"Visuals",},
         [4] = {"Misc",},
         [5] = {"Settings",},
