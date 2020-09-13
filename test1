@@ -1,7 +1,7 @@
 -- last update: 26/07/2020
 local CustomLanguage = { -- fontTest
     v_loc = 1.00, -- 2
-    otdt_msg = "Hmmmmmm",
+    otdt_msg = "Hmmmmmmm",
     [1] = {
         [1] = {"ʟᴇɢɪᴛʙᴏᴛ",},
         [2] = {"ʀᴀɢᴇʙᴏᴛ",},
